@@ -21,7 +21,6 @@ And can ping at the same time by using
     http://localhost:8000/ping
 
 The client sends a message every second
-start the client:
 
     $ go run client.go
 
