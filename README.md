@@ -2,7 +2,7 @@
 
 This example shows a simple client and server.
 
-The server echoes messages sent to it. The client sends a message every second
+The server echoes messages sent to it.
 and prints all messages received.
 
 To run the example, start the server:
@@ -20,7 +20,8 @@ And can ping at the same time by using
 
     http://localhost:8000/ping
 
-Optional, start the client:
+The client sends a message every second
+start the client:
 
     $ go run client.go
 
