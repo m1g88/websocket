@@ -6,7 +6,8 @@ The server echoes messages sent to it.
 and prints all messages received.
 
 To run the example, start the server:
-
+   
+    $ go get
     $ go run server.go
 
 The server includes a simple web client. To use the client, open
